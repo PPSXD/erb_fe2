@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/erb_fe2/static/css/main.bf694555.css",
+    "main.js": "/erb_fe2/static/js/main.8a9b7617.js",
+    "static/media/freedom.png": "/erb_fe2/static/media/freedom.3356dd24f50d6143a593.png",
+    "static/media/Strike-freedom-v2.png": "/erb_fe2/static/media/Strike-freedom-v2.568f8a1ff5e7ac278d13.png",
+    "static/media/Legend-Gundam-v2.png": "/erb_fe2/static/media/Legend-Gundam-v2.a7517ff1b37cfefad24b.png",
+    "static/media/Infinite-Justice-Gundam-v2.png": "/erb_fe2/static/media/Infinite-Justice-Gundam-v2.3f7554d554d230309469.png",
+    "static/media/Destiny-Gundam-v2.png": "/erb_fe2/static/media/Destiny-Gundam-v2.f316f3cebfa86d7086f1.png",
+    "static/media/about.png": "/erb_fe2/static/media/about.2a8d24ec37192b04184e.png",
+    "static/media/logo.svg": "/erb_fe2/static/media/logo.17fca528666ad38fb9820c717e7318a1.svg",
+    "index.html": "/erb_fe2/index.html",
+    "main.bf694555.css.map": "/erb_fe2/static/css/main.bf694555.css.map",
+    "main.8a9b7617.js.map": "/erb_fe2/static/js/main.8a9b7617.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf694555.css",
+    "static/js/main.8a9b7617.js"
+  ]
+}
