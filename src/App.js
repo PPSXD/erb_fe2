@@ -1,4 +1,4 @@
-import logo from './images/logo.svg';
+// import logo from './images/logo.svg';
 import './styles.css';
 import Main from './components/Main.jsx';
 
